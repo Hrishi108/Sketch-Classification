@@ -1,0 +1,45 @@
+body{
+background-color: chartreuse;    
+}
+#score{
+float: left;
+margin-left: 50px;   
+font-size: 40px; 
+}
+
+#timer{
+float: right;
+margin-right: 50px;   
+font-size: 40px; 
+}
+
+#sketch_name{
+font-size: 50px;
+color:darkblue;
+}
+
+body
+{
+background-color:#035efc;
+}
+
+h1
+{
+  color:rgb(255, 187, 0);
+  background-color: cornsilk;
+}
+
+#your_sketch{
+font-size: 30px;    
+}
+
+#confidence{
+    font-size: 30px;    
+    }
+
+
+
+#show_sketch{
+  float:right;
+  
+}
